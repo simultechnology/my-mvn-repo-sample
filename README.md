@@ -1,0 +1,1 @@
+# my-mvn-repo-sample
